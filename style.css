@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 20px;
+}
